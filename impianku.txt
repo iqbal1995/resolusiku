@@ -1,3 +1,4 @@
 resolusiku pada pertengahan tahun ini adalah 
 - menyelesaikan course node.js
-- mempelajari big data 
+- mempelajari big data -> ini untuk konsep saja 
+
