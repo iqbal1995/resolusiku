@@ -1,6 +1,7 @@
 resolusiku pada pertengahan tahun ini adalah 
-- menyelesaikan course node.js
+- menyelesaikan belajar  node.js dan konsep vuejs
 - mempelajari big data -> ini untuk konsep saja 
   ^menghapal kosa kata bahasa inggris 
+Wkwkwkw
   
 
