@@ -1,0 +1,21 @@
+[ 
+  {
+     "tahun" : 2019,
+     "judul" : "belajar javascript moderen",
+     "info" : {
+        "penulis" : "muhammad iqbal",
+        "penerbit" : "pontianak media book",
+        "rilis" : "Fri Aug 23 2019 14:57:22 GMT+0700 (Indochina Time)",
+        "rating" : 6.0
+     }
+   }, 
+   {
+      "tahun" : 2018,
+      "judul" : "belajar Fundamental noSQL databse dengan monggoDB",
+      "info" : {
+          "penulis" : "muhammad iqbal',
+          "jenis" : "tutorial",
+          "gambar" : "https://example.com/images/example-images.jpg"
+      }        
+   }
+]
